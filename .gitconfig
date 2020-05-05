@@ -1,0 +1,12 @@
+[user]
+	name = Yaxuan Dai
+	email = yaxuan.dai@outlook.com
+[color]
+	ui = true
+[alias]
+	cp = cherry-pick
+	co = checkout
+	ci = commit
+	st = status
+	br = branch
+	ll = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset'	
